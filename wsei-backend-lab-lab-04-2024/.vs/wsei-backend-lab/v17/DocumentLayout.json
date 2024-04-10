@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\jakub.adamczyk\\downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\webapi\\validators\\quizitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\validators\\quizitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\jakub.adamczyk\\downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\webapi\\controllers\\apiquizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\apiquizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\jakub.adamczyk\\downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\jakub.adamczyk\\downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\webapi\\controllers\\apiquizusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\apiquizusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\jakub.adamczyk\\downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\webapi\\mappers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\mappers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\jakub.adamczyk\\downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\webapi\\dto\\newquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\newquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\jakub.adamczyk\\downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\webapi\\dto\\quizitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\quizitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\jakub.adamczyk\\downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\webapi\\dto\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|d:\\users\\jakub.adamczyk\\downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\webapi\\dto\\quizitemuseranswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD4A157-22FC-46FB-BE5E-6CF53557CD33}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dto\\quizitemuseranswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizItemValidator.cs",
+              "DocumentMoniker": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Validators\\QuizItemValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Validators\\QuizItemValidator.cs",
+              "ToolTip": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Validators\\QuizItemValidator.cs",
+              "RelativeToolTip": "WebApi\\Validators\\QuizItemValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:40:18.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Mappers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "WebApi\\Mappers\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Mappers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "WebApi\\Mappers\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:28:02.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewQuizDto.cs",
+              "DocumentMoniker": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Dto\\NewQuizDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\NewQuizDto.cs",
+              "ToolTip": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Dto\\NewQuizDto.cs",
+              "RelativeToolTip": "WebApi\\Dto\\NewQuizDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:42:44.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiQuizAdminController.cs",
+              "DocumentMoniker": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Controllers\\ApiQuizAdminController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ApiQuizAdminController.cs",
+              "ToolTip": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Controllers\\ApiQuizAdminController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ApiQuizAdminController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:38:54.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiQuizUserController.cs",
+              "DocumentMoniker": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Controllers\\ApiQuizUserController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ApiQuizUserController.cs",
+              "ToolTip": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Controllers\\ApiQuizUserController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ApiQuizUserController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:35:26.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizDto.cs",
+              "DocumentMoniker": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Dto\\QuizDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\QuizDto.cs",
+              "ToolTip": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Dto\\QuizDto.cs",
+              "RelativeToolTip": "WebApi\\Dto\\QuizDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:35:18.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizItemDto.cs",
+              "DocumentMoniker": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Dto\\QuizItemDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\QuizItemDto.cs",
+              "ToolTip": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Dto\\QuizItemDto.cs",
+              "RelativeToolTip": "WebApi\\Dto\\QuizItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:35:15.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizItemUserAnswerDto.cs",
+              "DocumentMoniker": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Dto\\QuizItemUserAnswerDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Dto\\QuizItemUserAnswerDto.cs",
+              "ToolTip": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Dto\\QuizItemUserAnswerDto.cs",
+              "RelativeToolTip": "WebApi\\Dto\\QuizItemUserAnswerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:35:08.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\Users\\jakub.adamczyk\\Downloads\\wsei-backend-lab-lab-04-2024\\wsei-backend-lab-lab-04-2024\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:35:05.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
